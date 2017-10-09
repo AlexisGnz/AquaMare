@@ -60,7 +60,7 @@
           </ul>
       </div>
       <div class="container">
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/1-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina & Solarium Deck</h6>
@@ -68,7 +68,7 @@
           </section>
         </div>
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/2-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina con Solarium Circular & Cascada Artificial</h6>
@@ -76,7 +76,7 @@
           </section>
         </div>  
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/3-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina Pública & Cascadas Artificiales</h6>
@@ -84,7 +84,7 @@
           </section>
         </div>
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/4-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina c/Diseño Personalizado Cascadas y Solarium</h6>
@@ -92,7 +92,7 @@
           </section>
         </div>  
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/5-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina Circular Personalizada</h6>
@@ -100,7 +100,7 @@
           </section>
         </div>
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/6-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina Circular Personalizada</h6>
@@ -108,7 +108,7 @@
           </section>
         </div>      
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/7-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina Circular Personalizada</h6>
@@ -116,7 +116,7 @@
           </section>
         </div>  
 
-        <div class="col-md-3 jobs-container">
+        <div class="col-md-3 col-md-3-fix jobs-container">
           <img src="img/8-jobs.png" alt="">
           <section class="text-center">
             <h6>Piscina Circular Personalizada</h6>
@@ -135,43 +135,32 @@
         </nav>
        </div>
     </div>
-       <div class="dark-section">
-         <div class="col-md-2">
-           <ul>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-              <li><button>pruebas</button></li>
-           </ul>
-         </div>
-         <div class="col-md-8">
-           
-         </div>
-       </div>    
   </div>
-
 </div>
-<div class="footer">
-  <div class="newsletters_block">
-    <div class="container">
-      <div class="col-md-6">
-        <div class="label_block">Newsletter</div>
-        <input type="email" placeholder="Ingrese su e-mail para recibir Novedades">
+    <div class="galery-container text-center">
+      <h2>Galería de imágenes</h2>
+      <div class="galery-category col-md-3">
+        <ul>
+          <li><button>banco y playa humeda</button></li>
+          <li><button>bordes y guardas</button></li>
+          <li><button>calefaccion piscinas</button></li>
+          <li><button>cascadas</button></li>
+          <li><button>cerramientos</button></li>
+          <li><button>decks</button></li>
+          <li><button>desbordes</button></li>
+          <li><button>energias alternativas</button></li>
+          <li><button>escaleras</button></li>
+          <li><button>filtros y bombas</button></li>
+          <li><button>hidromasajes</button></li>
+          <li><button>iluminacion</button></li>
+          <li><button>piscinas</button></li>
+          <li><button>wellness y spa</button></li>
+        </ul>    
       </div>
-      <div class="col-md-6 text-right">
-        <div class="mas_info"><strong>+ info:</strong>aquamare@aquamare.com.ar</div>
-      </div>
+      <div class="galery-img col-md-9">
+              
+      </div>  
     </div>
-  </div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
@@ -219,7 +208,6 @@
 <li><a>· HotSpring Youtube</a></li>
             </ul>
           </div>
-          
         </div>
         <div class="col-md-4 text-right"><img src="img/logo_footer.png">
           <div class="info_footer">

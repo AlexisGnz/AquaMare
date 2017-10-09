@@ -954,7 +954,7 @@ ul, ul li{
 	font-size: 14px;
 	margin-top: 24px;
 }
-.col-md-3{
+.col-md-3-fix{
 padding: 9px 4px;
 }
 .container-nav-num{
@@ -969,4 +969,35 @@ padding: 9px 4px;
 	color: #BBBABA;
 	line-height: 40px;
 	font-weight: bold;
+}
+.galery-container{
+	margin-bottom: 600px;
+	background-color: #29292A; 
+	height: 1000px;
+}
+.galery-container h2{
+	color: #5DDECA;
+    font-family: roboto black;
+    font-size: 42px;
+}
+.galery-category ul{
+	width: 100px;
+
+}
+.galery-category ul li button{
+	background-color: transparent;
+	color: #E0DDDD;
+	height: 56px;
+	width: 254px;
+	border: 1px solid #373736;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-family:"Roboto Condensed";
+	text-align: left;
+	border-left: none;
+	padding-left: 18px;
+}
+.galery-category ul li button:hover{
+	color: #5ddeca;
+	border-right: 6px solid #5ddeca;
 }
