@@ -138,28 +138,77 @@
   </div>
 </div>
     <div class="galery-container text-center">
-      <h2>Galería de imágenes</h2>
-      <div class="galery-category col-md-3">
-        <ul>
-          <li><button>banco y playa humeda</button></li>
-          <li><button>bordes y guardas</button></li>
-          <li><button>calefaccion piscinas</button></li>
-          <li><button>cascadas</button></li>
-          <li><button>cerramientos</button></li>
-          <li><button>decks</button></li>
-          <li><button>desbordes</button></li>
-          <li><button>energias alternativas</button></li>
-          <li><button>escaleras</button></li>
-          <li><button>filtros y bombas</button></li>
-          <li><button>hidromasajes</button></li>
-          <li><button>iluminacion</button></li>
-          <li><button>piscinas</button></li>
-          <li><button>wellness y spa</button></li>
-        </ul>    
+      <div class="container">
+        <h2>Galería de imágenes</h2>
+        <div class="galery-category col-md-3">
+          <ul>
+            <li><button>banco y playa humeda</button></li>
+            <li><button>bordes y guardas</button></li>
+            <li><button>calefaccion piscinas</button></li>
+            <li><button>cascadas</button></li>
+            <li><button>cerramientos</button></li>
+            <li><button>decks</button></li>
+            <li><button>desbordes</button></li>
+            <li><button>energias alternativas</button></li>
+            <li><button>escaleras</button></li>
+            <li><button>filtros y bombas</button></li>
+            <li><button>hidromasajes</button></li>
+            <li><button>iluminacion</button></li>
+            <li><button>piscinas</button></li>
+            <li><button>wellness y spa</button></li>
+          </ul>    
+        </div>
+        <div class="galery-img-container col-md-9">
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-1.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-2.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-3.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-4.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-5.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-6.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-7.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-8.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-9.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-10.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-11.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-12.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-13.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-14.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-15.png" alt="">
+          </div>
+          <div class="col-md-3 galery-img">
+            <img class="img-responsive" src="img/galery-jobs-page-16.png" alt="">
+          </div>
+        </div>  
       </div>
-      <div class="galery-img col-md-9">
-              
-      </div>  
     </div>
 <div class="footer">
   <div class="newsletters_block">
