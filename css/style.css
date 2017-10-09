@@ -969,16 +969,31 @@ padding: 9px 4px;
 	color: #BBBABA;
 	line-height: 40px;
 	font-weight: bold;
+	cursor: pointer;
 }
 .galery-container{
-	margin-bottom: 600px;
 	background-color: #29292A; 
-	height: 1000px;
+	padding-bottom: 100px;
+	position: relative;
+	padding-top: 76px;
+}
+.galery-container:before{
+	content:"";
+	width:29px;
+	border:15px solid rgba(0,0,0,0);
+	border-top:15px solid #FFF;
+	position:absolute;
+	top:0;
+	left:50%;
 }
 .galery-container h2{
 	color: #5DDECA;
     font-family: roboto black;
     font-size: 42px;
+    margin-bottom: 65px;
+}
+.galery-category{
+	margin-top: 10px;
 }
 .galery-category ul li button{
 	background-color: transparent;
