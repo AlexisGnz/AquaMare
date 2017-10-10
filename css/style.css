@@ -907,6 +907,7 @@ ul, ul li{
 	color: #26A1A5;
 	font-weight: bold;
 	font-family:"Roboto Condensed";
+	text-decoration: none;
 }
 .header-jobs p{
 	font-size: 18px;

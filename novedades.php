@@ -40,7 +40,57 @@
       </ul>
   </div>
 </div>
-<img class="img-responsive" src="img/novedades.png">
+<div class="container">
+      <div class="header-jobs text-center inner_page">
+        <h2>Nuestras Novedades</h2>
+        <h3>Estamos para ayudarte siempre. Estas son nuestras noticias destacadas...<br><a href="">Descubrí, informate y conocé lo último del mercado.</a></h3>
+        <br>
+      </div>
+      <div class="btn-container text-center">
+          <ul>
+            <li><button>ver todas</button></li>
+            <li><button>consejos</button></li>
+            <li><button>lanzamientos</button></li>
+            <li><button>noticias</button></li>
+            <li><button>instalaciones</button></li>
+            <li><button>construcciones</button></li>
+            <li><button>proyectos destacados</button></li>
+          </ul>
+      </div>  
+      <div class="sticks-novedades col-md-4">
+        <div class="stick-img"><img src="img/1-novedades.png" alt="">
+          <section>
+          <a class="text-left" href="">Lanzamientos - productos</a>
+          <span class="text-right">08/09/2017</span>
+          <h3 class="text-left">NUEVO INGRESO! MUEBLES de Jardín Keter</h3>
+          <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
+          <a class="text-right" href="">leer más</a>
+          </section>
+        </div>
+      </div>
+      <div class="sticks-novedades col-md-4">
+        <div class="stick-img"><img src="img/1-novedades.png" alt="">
+          <section>
+          <a class="text-left" href="">Lanzamientos - productos</a>
+          <span class="text-right">08/09/2017</span>
+          <h3 class="text-left">NUEVO INGRESO! MUEBLES de Jardín Keter</h3>
+          <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
+          <a class="text-right" href="">leer más</a>
+          </section>
+        </div>
+      </div>
+      <div class="sticks-novedades col-md-4">
+        <div class="stick-img"><img src="img/1-novedades.png" alt="">
+          <section>
+          <a class="text-left" href="">Lanzamientos - productos</a>
+          <span class="text-right">08/09/2017</span>
+          <h3 class="text-left">NUEVO INGRESO! MUEBLES de Jardín Keter</h3>
+          <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
+          <a class="text-right" href="">leer más</a>
+          </section>
+        </div>
+      </div>            
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
