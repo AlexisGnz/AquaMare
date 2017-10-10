@@ -923,15 +923,10 @@ ul, ul li{
     padding: 7px 20px;
     margin: 22px 3px;
 }
-.btn-container button:hover{
+.btn-container button:hover, .btn-container button:active{
 	background-color: #105765;
 	color: #FFFFFF;
-	border: none;	
-}
-.btn-container button:active{
-	background-color: #105765;
-	color: #FFFFFF;
-	border: none;	
+	border: 1px solid #105765;
 }
 .jobs-container{
 }
@@ -989,7 +984,7 @@ padding: 9px 4px;
 }
 .galery-container h2{
 	color: #5DDECA;
-    font-family: roboto black;
+    font-family: "Roboto";
     font-size: 42px;
     margin-bottom: 65px;
 }
