@@ -44,7 +44,7 @@
   <div class="inner_page">
     <div class="container">
       <div class="header-jobs text-center">
-        <h2>Nuestros Servicios</h2>
+        <h2>Nuestros Proyectos</h2>
         <h3>Si busca seguridad y calidad en la construcción o restauración de sus proyectos,<br><a href="">Contáctenos... somos su mejor opción.</a></h3>
         <br>
         <p>Te presentamos algunos de nuestros trabajos realizados, cuyos dueños ya están disfrutando...</p>  
