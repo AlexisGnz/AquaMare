@@ -1019,6 +1019,9 @@ padding: 9px 4px;
 	padding-left: 9px;
     padding-right: 9px;
 }
+.sticks-novedades:hover section{
+	background-color: #0C0C0C;
+}
 .sticks-novedades section{
 	background-color: #232323;
 	color: #FFFFFF;
@@ -1079,4 +1082,13 @@ padding: 9px 4px;
 .arrow-nav li button:hover{
 	border: 1px solid #8C8989;
 	color: #232323;
+}
+.false-slider{
+	margin-bottom: 90px;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
 }
