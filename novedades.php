@@ -56,40 +56,87 @@
             <li><button>construcciones</button></li>
             <li><button>proyectos destacados</button></li>
           </ul>
-      </div>  
-      <div class="sticks-novedades col-md-4">
-        <div class="stick-img"><img src="img/1-novedades.png" alt="">
-          <section>
-          <a class="text-left" href="">Lanzamientos - productos</a>
-          <span class="text-right">08/09/2017</span>
-          <h3 class="text-left">NUEVO INGRESO! MUEBLES de Jardín Keter</h3>
-          <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
-          <a class="text-right" href="">leer más</a>
-          </section>
+      </div>
+      <div class="stick-novedades-container">  
+        <div class="sticks-novedades col-md-4">
+          <div class="stick-img"><img src="img/1-novedades.png" alt="">
+            <section>
+            <a class="text-left" href="">Lanzamientos - productos</a>
+            <a class="text-right date">08/09/2017</a>
+            <h3 class="text-left">NUEVO INGRESO!</h3> 
+            <h4>Muebles de Jardín Keter</h4>
+            <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
+            <a class="text-right" href="">leer más</a>
+            </section>
+          </div>
+        </div>
+        <div class="sticks-novedades col-md-4">
+          <div class="stick-img"><img src="img/2-novedades.png" alt="">
+            <section>
+            <a class="text-left" href="">Noticias - Novedades</a>
+            <a class="text-right date">06/09/2017</a>
+            <h3 class="text-left">Aquamare representante oficial de la marca HotSpring en la ExpoHoteles</h3> 
+            <p class="text-left">La empresa está presente como representante oficial de la marca Hotspring para toda la Argentina en la Expo Hoteles #Hotelga en la rural de Buenos Aires, junto a la empresa Hidrozono.</p>
+            <a class="text-right" href="">leer más</a>
+            </section>
+          </div>
+        </div>
+        <div class="sticks-novedades col-md-4">
+          <div class="stick-img"><img src="img/3-novedades.png" alt="">
+            <section>
+            <a class="text-left" href="">Lanzamientos - productos</a>
+            <a class="text-right date">28/04/2017</a>
+            <h3 class="text-left">Curso técnico y ventas de Hotspring en Design & Art Center</h3> 
+            <p class="text-left">Como empresa nos resulta imprescindible, así como fundamental la capacitación de nuestro equipo de trabajo por lo que estuvimos presentes en el último curso técnico de ventas de HotSpring en Design & Art Center.</p>
+            <a class="text-right" href="">leer más</a>
+            </section>
+          </div>
+        </div>
+
+        <div class="sticks-novedades col-md-4">
+          <div class="stick-img"><img src="img/4-novedades.png" alt="">
+            <section>
+            <a class="text-left" href="">Instalaciones - Wellness & Spa</a>
+            <a class="text-right date">25/03/2017</a>
+            <h3 class="text-left">Curso técnico y ventas de Hotspring en Design & Art Center</h3> 
+            <p class="text-left">Enviamos nuestros técnicos especializados para realizar la instalación del equipo Highlife NXT Grande. Otros clientes más que satisfechos de adquirir un equipo de Hidromasajes Hot-Spring.</p>
+            <a class="text-right" href="">leer más</a>
+            </section>
+          </div>
+        </div>
+        <div class="sticks-novedades col-md-4">
+          <div class="stick-img"><img src="img/5-novedades.png" alt="">
+            <section>
+            <a class="text-left" href="">Instalaciones - Wellness & Spa</a>
+            <a class="text-right date">12/01/2017</a>
+            <h3 class="text-left">Instalación de Spa Hot-Spring en Resistencia, Chaco</h3> 
+            <p class="text-left">Te mostramos paso a paso como realizamos un gran trabajo de instalación de Spas Hot-Springs importados en la Ciudad de Resistencia. Seguridad, Profesionalismo y Asesoramiento.</p>
+            <a class="text-right" href="">leer más</a>
+            </section>
+          </div>
+        </div>
+        <div class="sticks-novedades col-md-4">
+          <div class="stick-img"><img src="img/6-novedades.png" alt="">
+            <section>
+            <a class="text-left" href="">Lanzamientos - Wellness & Spa</a>
+            <a class="text-right date">05/03/2017</a>
+            <h3 class="text-left">Argentina inicia con HotSprings Spas Somos representantes oficiales</h3> 
+            <p class="text-left">Hot-Springs Spas Latino America llega para estara la altura de tus sueños de la mano de Aquamare, cuyos 30 años en el mercado garantizan un equipamiento y servicio acorde a los deseos más exigentes.</p>
+            <a class="text-right" href="">leer más</a>
+            </section>
+          </div>
         </div>
       </div>
-      <div class="sticks-novedades col-md-4">
-        <div class="stick-img"><img src="img/1-novedades.png" alt="">
-          <section>
-          <a class="text-left" href="">Lanzamientos - productos</a>
-          <span class="text-right">08/09/2017</span>
-          <h3 class="text-left">NUEVO INGRESO! MUEBLES de Jardín Keter</h3>
-          <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
-          <a class="text-right" href="">leer más</a>
-          </section>
-        </div>
-      </div>
-      <div class="sticks-novedades col-md-4">
-        <div class="stick-img"><img src="img/1-novedades.png" alt="">
-          <section>
-          <a class="text-left" href="">Lanzamientos - productos</a>
-          <span class="text-right">08/09/2017</span>
-          <h3 class="text-left">NUEVO INGRESO! MUEBLES de Jardín Keter</h3>
-          <p class="text-left">Los productos Keter son de alta calidad y los mejores de su categoría. Son de resina de polipropileno 100% reciclable. Veni a conocer los nuevos muebles perfectos para decorar tu jardín y darle un estilo moderno.</p>
-          <a class="text-right" href="">leer más</a>
-          </section>
-        </div>
-      </div>            
+
+      <div class="arrow-nav text-center">
+        <ul>
+          <li>Página 1 de 2 </li>
+          <li>|</li>
+          <li><a href="">Ver todo</a></li>
+          <li><button><</button></li>
+          <li><button>></button></li>
+        </ul>
+      </div>   
 </div>
 <div class="footer">
   <div class="newsletters_block">
