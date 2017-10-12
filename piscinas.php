@@ -40,7 +40,46 @@
       </ul>
   </div>
 </div>
-<img class="img-responsive" src="img/piscinas.png">
+<div class="">
+  <img class="img-responsive" src="img/Piscinas-header.png" alt="">
+</div>
+<div class="dark-section text-center">
+  <div class="container">
+    <div class="header-dark">
+      <h2>Innovación & Profesionalismo</h2>
+      <h3>DISEÑAMOS, CONSTRUIMOS Y EQUIPAMOS LAS MEJORES PISCINAS CON TECNOLOGIA DE VANGUARDIA</h3>
+      <p>Disfrute de la tranquilidad de saber que su piscina será construida por profesionales en los tiempos pactados y sin sorpresas. Diseñamos, construimos e instalamos piscinas personalizadas con nuevas tecnologías en el tratamiento del agua y avanzados procesos constructivos, lo último en equipamiento de filtrado y los más modernos accesorios. </p>
+    </div>
+    <div class="stick-piscinas col-md-3">
+      <section>
+        <p>DISEÑO & CONSTRUCCION</p>
+      </section>
+      <img src="img/stick-piscinas-1.png" alt="">
+      <button>cotizar</button>
+    </div>
+    <div class="stick-piscinas col-md-3">
+      <section>
+        <p>INSTALACION DE PISCINAS</p>
+      </section>
+      <img src="img/stick-piscinas-2.png" alt="">
+      <button>cotizar</button>
+    </div>
+    <div class="stick-piscinas col-md-3">
+      <section>
+        <p>REFACCIONES</p>
+      </section>
+      <img src="img/stick-piscinas-3.png" alt="">
+      <button>cotizar</button>
+    </div>
+    <div class="stick-piscinas col-md-3">
+      <section>
+        <p>MANTENIMIENTO</p>
+      </section>
+      <img src="img/stick-piscinas-4.png" alt="">
+      <button>cotizar</button>
+    </div>            
+  </div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
