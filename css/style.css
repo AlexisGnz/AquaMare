@@ -1095,6 +1095,20 @@ padding: 9px 4px;
 .dark-section{
 	background-color: #1A1A1D;
 	padding: 3px 0px 71px 0px;
+	position: relative;
+}
+.dark-section:before{
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    display: block;
+    left: 50%;
+    margin-left: -10px;
+    border: 10px solid rgba(0,0,0,0);
+    border-top-color: #1A1A1D;
+    z-index: 10;
 }
 .header-dark{
 	font-family: "Roboto";
@@ -1147,6 +1161,22 @@ padding: 9px 4px;
 	text-transform: uppercase;
 	margin-top: 33px;
 }
+.piscinas-slider-triangle{
+	position: relative;
+}
+.piscinas-slider-triangle:before{
+	content: "";
+    position: absolute;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    display: block;
+    left: 50%;
+    margin-left: -10px;
+    border: 10px solid rgba(0,0,0,0);
+    border-top-color: #FFF;
+    z-index: 10;
+}
 .slider-piscinas ul li img{
 	display: inline-block;
 	text-align: center;
@@ -1161,4 +1191,129 @@ padding: 9px 4px;
 	font-family:"Roboto Condensed";
 	font-size: 21px;
 	color: #33a9df;
+}
+.circle-section{
+	text-align: center;
+	background-color: #419DDD;
+	padding: 86px 0px 77px 0px;
+	position: relative;
+}
+.circle-section:before{
+	content: "";
+    position: absolute;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    display: block;
+    left: 50%;
+    margin-left: -10px;
+    border: 10px solid rgba(0,0,0,0);
+    border-top-color: #419DDD;
+    z-index: 10;
+}
+.circle-img{
+	width: 226px;
+    height: 226px;
+    border-radius: 100%;
+    border:6px solid #88B5D5;
+    margin-bottom: 20px;
+}
+.circle-section p{
+	font-size: 28px;
+	font-weight: 300;
+	color: #afe4fc;
+	text-transform: capitalize;
+	margin:0px;
+}
+.circle-section h6{
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: 900;
+	width: 160px;
+	display: inline-block;
+	margin:0px;
+}
+.section-garantia{
+	background-color: #2688AF;
+	padding: 93px 0px 112px 0px;
+	position: relative;
+}
+.section-garantia:before{
+	content: "";
+    position: absolute;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    display: block;
+    left: 50%;
+    margin-left: -10px;
+    border: 10px solid rgba(0,0,0,0);
+    border-top-color: #2688AF;
+    z-index: 10;
+}
+.section-garantia section{
+	width: 1035px;
+    margin: 0 auto;
+}
+.section-garantia section h2{
+	text-transform: capitalize;
+	color: #FFFFFF;
+	font-size: 42px;
+	font-weight: 900;
+}
+.section-garantia section p{
+	font-size: 21px;
+	color: #FFFFFF;
+}
+.section-garantia section p a{
+	font-family:"Roboto Condensed";
+	font-weight: bold;
+	font-size: 18px;
+	color: #e8e7e7;
+}
+.body-msj{
+	font-family:"Roboto Condensed";
+	font-weight: 300;
+	font-size: 21px !important;
+	color: #e8e7e7 !important;
+}
+.piscinas-slogan{
+	font-family:"Roboto Condensed";
+	font-size: 19px !important;
+	font-weight: 700;
+	color: #b0f5fd !important;
+	/*falta poner italic*/
+}
+.piscinas-contacto{
+	background-color: #24628C;
+	padding: 111px 0px 77px 0px;
+}
+.piscinas-contacto section{
+	text-align: center;
+    margin: 0px auto;
+    width: 866px;
+}
+.piscinas-contacto section h2{
+	font-weight: 300;
+	font-size: 38px;
+	color: #8ed1ec;
+}
+.piscinas-contacto section h3{
+	font-weight: 300;
+	font-size: 38px;
+	color: #FFFFFF;
+}
+.piscinas-contacto section button{
+	width: 181px;
+	height: 39px;
+	text-align: center;
+	background-color: transparent;
+	border: 1px solid #639CB6;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-size: 13px;
+	border-radius: 11px;
+	margin-top: 55px;
 }

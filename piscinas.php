@@ -85,7 +85,7 @@
     </div>            
   </div>
 </div>
-  <div class="inner_page">
+  <div class="inner_page piscinas-slider-triangle">
     <div class="container">
       <h2>¿Cómo trabajamos?</h2>
       <div class="menu_slider_empresa"><ul class="clearfix"><li><a>DISEÑO & ESTRUCTURA</a></li><li><a>ESTANQUEIDAD DE LA PISCINA</a></li><li><a>DETALLES & TERMINACIONES</a></li></ul></div>
@@ -94,6 +94,44 @@
 <li><img src="img/piscinas-slider-3.png" alt=""><p><a href="">Relleno del exterior: </a>Relleno del espacio posterior de las paredes de la piscina. Construcción de borde perimetral, solarium y deck.</p><p><a href="">Terminaciones: </a>Pintura o revestimientos especiales, colocación de accesorios: hidromasajes, luces subacuáticas, cascadas, etc. y control de detalles estéticos.</p><p><a href="">Puesta en funcionamiento: </a>Llenado y puesta en marcha de la piscina para comprobar su correcta impermeabilización y desague. Conexión eléctrica.</p><p><a href="">Capacitación Final: </a>Asesoramiento respecto al correcto uso de la bomba y provisión de productos para el tratamiento y mantenimiento del agua.</p></li>
 </ul></div>
   </div>
+</div>
+<div class="circle-section clearfix">
+  <div class="col-md-3">
+    <img class="circle-img" src="img/circle-img-1.png" alt="">
+    <p>sólidas</p>
+    <h6>construcciones duraderas</h6>
+  </div>
+  <div class="col-md-3">
+    <img class="circle-img" src="img/circle-img-2.png" alt="">
+    <p>elegantes</p>
+    <h6>detalles & terminaciones</h6>
+  </div>
+  <div class="col-md-3">
+    <img class="circle-img" src="img/circle-img-3.png" alt="">
+    <p>perfectos</p>
+    <h6>sistemas de filtracion</h6>
+  </div>
+  <div class="col-md-3">
+    <img class="circle-img" src="img/circle-img-4.png" alt="">
+    <p>exclusivos</p>
+    <h6>productos & materiales</h6>
+  </div>
+</div>
+<div class="section-garantia text-center">
+  <section><h2>garantía</h2>
+  <p><a href="">Para tener en cuenta: </a>Ofrecemos la garantía más fuerte del mercado!</p>
+  <p class="body-msj">Son muchos los años que nos convierten en una empresa confiable con un producto propio que se diferencia en el mercado. 
+  El precio final de una piscina se determina por una serie de factores muy importantes a contemplar. Ellos son:
+  Mano de obra especializada; calidad de los materiales; terminaciones; diseño, fuerza y durabilidad constructiva subterránea.
+  Servicio al Cliente y plazo de construcción y terminación de obra.</p>
+  <p class="piscinas-slogan">“En nuestra empresa ofrecemos un producto de calidad totalmente garantizado; con excelentes terminaciones
+que son el resultado de más de 35 años de experiencia en construcción de piscinas.”</p></section>
+</div>
+<div class="piscinas-contacto">
+  <section>
+  <h2>En Aquamare utilizamos un sistema constructivo sólido, rápido, seguro y bien definido.</h2>
+  <h3>¿Querés una piscina?</h3>
+  <button>contactanos</button></section>
 </div>
 <div class="footer">
   <div class="newsletters_block">
