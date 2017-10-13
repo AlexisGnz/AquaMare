@@ -133,6 +133,20 @@ que son el resultado de más de 35 años de experiencia en construcción de pisc
   <h3>¿Querés una piscina?</h3>
   <button>contactanos</button></section>
 </div>
+<div class="jobs-piscinas text-center clearfix container">
+  <img src="img/logo-piscinas.png" alt="">
+  <h2>Ver los trabajos realizados</h2>
+  <button>quiero mas info</button>
+  <br>
+</div>
+<div class="sponsors-section clearfix text-center container">
+  <div class="col-md-2"><img src="img/sponsors-1.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-2.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-3.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-4.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-5.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-6.png" alt=""></div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
