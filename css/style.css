@@ -1147,3 +1147,18 @@ padding: 9px 4px;
 	text-transform: uppercase;
 	margin-top: 33px;
 }
+.slider-piscinas ul li img{
+	display: inline-block;
+	text-align: center;
+	margin: 81px 0px 58px 0px;
+}
+.slider-piscinas ul li p{
+	font-family:"Roboto Condensed";
+	font-size: 21px;
+	color: #828383;
+}
+.slider-piscinas ul li p a{
+	font-family:"Roboto Condensed";
+	font-size: 21px;
+	color: #33a9df;
+}
