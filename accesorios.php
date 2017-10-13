@@ -41,6 +41,32 @@
   </div>
 </div>
 <img class="img-responsive" src="img/accesorios.png">
+<div class="text-center accesorios-container clearfix">
+  <div class="container">
+    <h1>Líderes en insumos para piscinas</h1>
+    <strong>te ofrecemos la mas alta variedad de accesorios de vanguardia del mercado, seguridad & calidad garantizada</strong>
+    <p>Cuando usted compra un accesorio para su Piscina en Aquamare, nos interesa que su elección haya sido la correcta. 
+Es por ello, que ofrecemos un servicio de instalación y asesoramiento personalizado, tanto en nuestros
+Showrooms como en obra, asegurando la completa satisfacción de nuestros clientes.</p>
+    <h3>Encuentre aquí todos los Accesorios que usted necesite para su Piscina</h3>
+    </div>
+    <div class="stick-accesorios-container container">
+      <div class="col-md-5"><img  class="img-responsive" src="img/accesorios-stick-1.png" alt=""></div>
+      <div class="col-md-7"><section>
+        <h3>ACCESORIOS DE LIMPIEZA: Sacahojas, Limpiafondos, Cepillos, Manguera, Reel Manguera, etc.</h3>
+        <p>El mantenimiento de una piscina y del agua no es simplemente un tema estético, 
+sino también de salubridad. Para evitarlo, durante todo el año deberemos realizar algunas 
+acciones que nos ayuden a conservar limpia nuestra piscina durante todo el año. 
+El cuidado y limpieza de los fondos y paredes son fundamentales.</p>
+        <br>
+        <p>En nuestra empresa encontrará la solución para cualquier problema que pueda tener su piscina.
+Contamos con personal altamente capacitado para asesorarlo en el cuidado del agua.</p>
+        <a href="">En Aquamare podrá encontrar todo lo que Usted necesite para el mantenimiento integral de su piscina.</a>
+        <strong>Fundamentales: Barredoras manuales flexibles y automáticas - Mangueras - Dispensadores de cloro -
+Manerales telescópicos - Recogehojas o red de mano - Aspiradora de fondos - Cepillos </strong>
+      </section></div>
+    </div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">

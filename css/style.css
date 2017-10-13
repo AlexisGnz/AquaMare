@@ -1348,3 +1348,48 @@ padding: 9px 4px;
 .sponsors-section{
 	padding: 36px 0px 86px 0px;
 }
+.accesorios-container{
+	background-color: #004566;
+	padding: 81px 0px;
+}
+.accesorios-container h1{
+	font-weight: 500;
+	color: #FFFFFF;
+	font-size: 62px;
+	margin-bottom: 45px;
+}
+.accesorios-container strong{
+	font-weight: 500;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #abf5f6;
+	display: inline-block;
+	margin-bottom: 39px;
+}
+.accesorios-container p{
+	font-weight: 300;
+	font-size: 20px;
+	color: #f0f1f1;
+	margin-bottom: 45px;
+	display: inline-block;
+    width: 1000px;
+    text-align: center;
+}
+.accesorios-container h3{
+	font-weight: bold;
+	font-size: 18px;
+	color: #f0f1f1;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	background-color: #00405F;
+	border-top: 2px solid #195C7C;
+	border-bottom: 2px solid #195C7C;
+}
+.stick-accesorios-cotainer{
+
+}
+.stick-accesorios-cotainer section{
+	width: 100%;
+	background-color: #E3E4E7;
+}
