@@ -19,25 +19,25 @@
       <div class="menu_header">
         <ul>
           <li><a href="/">Home</a></li>
-          <li><a href="">Nosotros</a></li>
-          <li><a href="">Servicios</a></li>
-          <li><a href="">Trabajos Realizados</a></li>
-          <li><a href="">Novedades</a></li>
-          <li class="active"><a href="contacto">Contacto</a></li>
+          <li><a href="nosotros">Nosotros</a></li>
+          <li><a href="servicios">Servicios</a></li>
+          <li><a href="trabajos">Trabajos Realizados</a></li>
+          <li><a href="novedades">Novedades</a></li>
+          <li><a href="contacto">Contacto</a></li>
         </ul>
       </div>
     </div>
   </div>
   <div class="main_menu">
-    <ul>
-      <li class="burger_menu"><a href="">Pedí tu presupuesto <strong>Online!</strong></a></li>
-      <li><a href="piscinas">Piscinas</a></li>
-      <li><a href="accesorios">Productos & Accesorios</a></li>
-      <li><a href="wellness">Wellness & Spa</a></li>
-      <li><a href="">Jardín & Aire Libre</a></li>
-      <li><a href="energias">Energías Alternativas</a></li>
-      <li><a href="riego">Sistemas de Riego</a></li>
-    </ul>
+      <ul>
+        <li class="burger_menu"><a href="">Pedí tu presupuesto <strong>Online!</strong></a></li>
+        <li><a href="piscinas">Piscinas</a></li>
+        <li class="active"><a href="accesorios">Productos & Accesorios</a></li>
+        <li><a href="wellness">Wellness & Spa</a></li>
+        <li><a href="jardin">Jardín & Aire Libre</a></li>
+        <li><a href="energias">Energías Alternativas</a></li>
+        <li><a href="riego">Sistemas de Riego</a></li>
+      </ul>
   </div>
 </div>
 <div class="page_container">

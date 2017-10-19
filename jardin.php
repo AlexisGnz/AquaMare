@@ -40,64 +40,82 @@
       </ul>
   </div>
 </div>
-<img class="img-responsive" src="img/riego.png">
+<img class="img-responsive" src="img/Jardin.png">
 <div class="darkness-container clearfix">
   <div class="container clearfix">
     <div class="darkness-header text-center">
-      <h2>Innovación en Riego</h2>
-      <strong>DISEÑO DE ESPACIOS, ASESORAMIENTO E INSTALACION DE SISTEMAS DE RIEGO ARTIFICIAL</strong>
-      <p>Contamos con el mejor equipo de profesionales y estamos capacitados para brindarte un servicio completo 
-de riego artificial para cualquier tipo de espacio: parques, jardines, campos deportivos, agrícolas y mucho más... 
-Contamos con equipamiento integral, insumos y respuestos; y un excelente servicio de post-venta.</p>
+      <h2>Disfrutá del aire libre</h2>
+      <strong>PODEMOS AYUDARTE A CREAR ESPACIOS PARTICULARES Y SENSACIONES UNICAS</strong>
+      <p>Ya sea para disfrutar de tu jardín, terraza, piscina o bien de tus vacaciones al aire libre; en Aquamare encontrarás la mejor calidad
+y las más modernas propuestas de muebles y juegos de jardín, mesas, sillas, reposeras, bancos, accesorios y mucho más...
+Somos una empresa dedicada al diseño y la comercialización de espacios interiores y exteriores.</p>
     </div>
-
     <div class="darkness-stick-container">
-      <div class="col-md-4 col-fix-darkness"><img src="img/stick-riego-1.png" alt=""></div>
+      <div class="col-md-4 col-fix-darkness"><img src="img/stick-jardin-1.png" alt=""></div>
       <div class="col-md-8 col-fix-darkness">
-        <h3><strong>ESPACIOS PRIVADOS: </strong>La solución ideal para embellecer su jardín</h3>
+        <h3><strong>MUEBLES PARA EXTERIOR: </strong>Lo último en tendencias de mobiliario en Fibras Sintéticas</h3>
         <section>
-          <p>El riego es un elemento principal en un jardín o espacio verde,
-puesto que de él depende la vida de los mismos.</p>
-          <p>En Aquamare diseñamos e instalamos ciompletos siswtemas de riego
-por aspersión o goteo, acordes a las necesidades de su espacio.</p>
-          <strong><a href="">Consejo Aquamare:  </a><<br>No todas las zonas de su jardín necesitan la misma cantidad de agua,
-ni todos los días es imperioso el riego.</strong>
-
+          <p>Tomar sol en una silla reclinable e bien en una reposera confortable, cenar con la familia
+en el jardín, cerca de la piscina ¿qué más se puede desear?...</p>
+          <p>Los muebles de ratán sintético tienen como denominador común la fibra sintética con la que 
+están tejidos y lo esencial es su protección U.V. y su estructura de aluminio. En Aquamare podrás 
+encontrar una amplia gama de mobiliario de fibra sintética; y variedad de modelos, tamaños y 
+colores. Ideales para ambientar los distintos espacios exteriores de la casa.</p>
+          <strong><a href="">Ventajas: </a>Son tendencia. Exhiben una estética contemporánea y funcional. De sencillo mantenimiento.
+Son de fácil limpieza. Muy resistentes y durables. Ideales para terrazas, jardínes y piscinas.
+No hay que preocuparse si llueve, o por su exposición al sol o a cambios de temperatura.
 </strong>
         </section>
       </div>
     </div>
 
     <div class="darkness-stick-container">
-      <div class="col-md-4 col-fix-darkness float-right"><img src="img/stick-riego-2.png" alt=""></div>
+      <div class="col-md-4 col-fix-darkness float-right"><img src="img/stick-jardin-2.png" alt=""></div>
       <div class="col-md-8 col-fix-darkness">
-        <h3><strong>ESPACIOS PUBLICOS: </strong>Priorizamos el consumo responsable de agua</h3>
+        <h3><strong>DECK SINTETICO & SOLARES: </strong>Ayuda a la conservación del medioambiente y la preservación forestal</h3>
         <section>
-          <p>En nuestra empresa contamos con profesionales capacitados que dominan el terreno y
-están a la vanguardia de lo último en sistemas de riego por aspersión o goteo.
-Ofrecemos diferentes grados de automatización y la garantía de un trabajo de calidad.</p>
-          <p>En Aquamare realizamos todo tipo de instalaciones de riego y mantenimiento,
-acordes a las más altas exigencias de cada jardín o espacio público.
-Contáctenos, podemos ayudarlo.</p>
-          <strong><a href="">Consejo Aquamare: </a><br>Diseñamos cada sistema a medida teniendo en cuenta principalmente la uniformidad
-a fin de garantizar que la superficie total del jardín resulte regada de manera adecuada.</strong>
+          <p>El deck sintético es un un material muy resistente, realizado con fibras naturales y plástico.
+Tiene las ventajas estéticas de la madera y las prácticas del PVC. Está disponible en distintas 
+tonalidades: marrón oscuro, marrón claro, color carpincho, gris cemento, verde, azul, rojo.</p>
+          <p>Son numerosas las ventajas que definen la utilización de este tipo de productos, pero cabe
+destacar que es de fácil mantenimiento y limpieza. Es antideslizante, no se astilla ni se quiebra 
+debido a su alta dureza. Mantiene sus dimensiones.</p>
+          <strong><a href="">Numerosas Ventajas: </a>Resistente a la humedad. No se pudre ni absorbe agua. No es afectado por el cloro. 
+No se mancha ni se decolora. No es afectado por termitas, ni ningún otro insecto.
+Se limpia solo con detergente, agua y cepillo para sacar cualquier mancha.</strong>
         </section>
       </div>
     </div>
 
+    <div class="darkness-stick-container">
+      <div class="col-md-4 col-fix-darkness"><img src="img/stick-jardin-3.png" alt=""></div>
+      <div class="col-md-8 col-fix-darkness">
+        <h3><strong>IMPLEMENTOS PARA JARDIN: </strong>La más confiable inversión a largo plazo.</h3>
+        <section>
+          <p>Para un buen mantenimiento del exterior y del jardín es necesario
+contar con las mejores herramientas y los adecuados utensilios para cada tarea; 
+ya sea tanto a nivel profesional para grandes parques, como para los que 
+simplemente se ocupan del entorno de su casa.</p>
+          <p>Mantené tu jardín implecable en todo momento. </p>
+          <strong><a href="">Aquamare te ofrece la más amplia variedad de implementos del mercado: </a><br>Cortadoras de césped, desmalezadoras, motosierras, los más completos accesorios,
+servicio de post-venta y todos los repuestos que necesites...
+</strong>
+        </section>
+      </div>
+    </div>
     <div class="btn-containere"><button>necesito un presupuesto</button></div>          
     </div>
   </div>
     <div class="piscinas-contacto background-cyan">
   <section>
-  <h2 class="color_cyan">En Aquamare encontrará Técnicos altamente especializados;
-estudie la mejor solución para su instalación.</h2>
-  <h3>¡Podemos asesorarlo!</h3>
+  <h2 class="color_cyan">Contamos con productos modernos y a la vanguardia
+para cada tipo de ambiente y necesidad</h2>
+  <h3>¿Necesitás asesoramiento?</h3>
   <button class="btn-background">contactanos</button></section>
 </div>
 <div class="jobs-piscinas text-center clearfix container">
-  <img src="img/riego-icono.png" alt="">
-  <h2>Ver los trabajos realizados</h2>
+  <img src="img/sombrilla.png" alt="">
+  <h2>Ver nuestros productos & mobiliario</h2>
   <button>quiero mas info</button>
   <br>
 </div>

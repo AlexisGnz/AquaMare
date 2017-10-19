@@ -34,7 +34,7 @@
         <li><a href="piscinas">Piscinas</a></li>
         <li><a href="accesorios">Productos & Accesorios</a></li>
         <li class="active"><a href="wellness">Wellness & Spa</a></li>
-        <li><a href="">Jardín & Aire Libre</a></li>
+        <li><a href="jardin">Jardín & Aire Libre</a></li>
         <li><a href="energias">Energías Alternativas</a></li>
         <li><a href="riego">Sistemas de Riego</a></li>
       </ul>
