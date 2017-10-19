@@ -208,7 +208,6 @@ Los equipos están desarrollados y fabricados combinando el diseño, los materia
 componentes utilizados para su fabricación pasra lograr las diguientes prestaciones: Son fáciles
 de instalar, compactos, seguros y confiables. Con alto rendimiento y bajo costo de mantenimiento.
 Repuestos estándar y con alta disponibilidad. Diseño moderno. Terminación de acero inoxidable.</p>
-        <p></p>
         <a href="">Son recomendados por Aquamare: Ecológicos y eficientes. Alto rendimiento del 98%. Energía limpia.</a>
         <strong>Ventajas: Fácil instalación - Sin emanaciones peligrosas - Bajo mantenimiento</strong>
       </section></div>

@@ -60,7 +60,7 @@ Contamos con equipamiento integral, insumos y respuestos; y un excelente servici
 puesto que de él depende la vida de los mismos.</p>
           <p>En Aquamare diseñamos e instalamos ciompletos siswtemas de riego
 por aspersión o goteo, acordes a las necesidades de su espacio.</p>
-          <strong><a href="">Consejo Aquamare:  </a><<br>No todas las zonas de su jardín necesitan la misma cantidad de agua,
+          <strong><a href="">Consejo Aquamare:  </a><br>No todas las zonas de su jardín necesitan la misma cantidad de agua,
 ni todos los días es imperioso el riego.</strong>
 
 </strong>
