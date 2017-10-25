@@ -40,7 +40,144 @@
       </ul>
   </div>
 </div>
+<img src="img/home-slider.png" class="img-responsive" alt="">
+<div class="white-section">
+  <div class="container text-center white-section-header">
+    <h2>Especialistas en Piscinas & Agua</h2>
+    <strong>AQUAMARE ES UNA EMPRESA COMPROMETIDA CON EL CLIENTE Y SU SATISFACCION</strong>
+    <p>Con más de 30 años de experiencia, Aquamare puede ofrecerle la más alta calidad y respaldo del mercado en productos garantizados.
+Somos una empresa que está continuamente innovando con la última tecnología y con una conducta sustentable.
+Disfrute de la tranquilidad de saber que su piscina será construida por profesionales en los tiempos pactados y sin sorpresas.</p>
+    <ul>
+      <li><button class="bg1E87B1">conocer aquamare</button></li>
+      <li><button class="bg0071AB">ver proyectos realizados</button></li>
+      <li><button class="bg205C86">necesito un presupuesto</button></li>
+    </ul>
+  </div>
+  <div class="acordeon-container clearfix container">
+    <div class="slider-acordeon col-md-6">
+        <img src="img/slider-acordeon.png" class="img-responsive" alt="">
+    </div>
+    <div class="acordeon col-md-6">
+      <h3>diseño & construccion <i class="fa fa-angle-down" aria-hidden="true"></i></h3>
+      <div></div>
+      <h3>refacciones <i class="fa fa-angle-down" aria-hidden="true"></i></h3>
+      <div></div>
+      <h3>mantenimiento <i class="fa fa-angle-down" aria-hidden="true"></i></h3>
+      <div></div>            
+    </div>
+  </div>
+</div>
+  <div class="reasons-section text-center">
+    <div class="container">
+    <h2>¿Porqué elegirnos?</h2>
+    <div class="col-md-4">
+      <img src="img/home-reasons-1.png" alt="">
+      <section>
+        <h4>Excelencia en Calidad</h4>
+        <strong>Servicio totalmente profesional</strong>
+        <p>Satisfacción garantizada. Utilizamos materias
+primas de primera calidad y trabajamos bajo los
+más estrictos controles de nuestros procesos
+de fabricación, logrando productos que responden
+a las necesidades de nuestros clientes.</p>
+      </section>
+    </div>
+<div class="col-md-4">
+      <img src="img/home-reasons-2.png" alt="">
+      <section>
+        <h4>Durabilidad Garantizada</h4>
+        <strong>Trabajamos con marcas líderes</strong>
+        <p>Seguimiento y respuestas aseguradas.
+Confiamos en nuestros productos y garantizamos
+su calidad y durabilidad. Aquamare le ofrece la mejor
+garantía  del mercado tranquilidad y respaldo.
+Estamos para brindarle la solución que usted necesita.</p>
+      </section>
+    </div>
+<div class="col-md-4">
+      <img src="img/home-reasons-3.png" alt="">
+      <section>
+        <h4>Diseños Exclusivos</h4>
+        <strong>Realizamos trabajos personalizados</strong>
+        <p>Cuidamos la estética, la funcionalidad y la ergonomía,
+para que disfrute de nuestros productos al máximo.
+Aquamare le ofrece un estilo propio y único.
+Diseños que satisfacen el gusto de toda su familia para
+encontrar ese espacio que imaginaron y merecen.</p>
+      </section>
+    </div>        
+  </div>
+  </div>
+  <div class="services-section text-center">
+    <div class="container">
+      <h2>nuestros servicios</h2>
+      <div class="stick-services-container clearfix">
+      <div class="col-md-4">
+        <h3 class="bg-piscinas">piscinas</h3>
+        <img src="img/services-stick-1.png" alt="">
+      </div>
+      <div class="col-md-4">
+        <h3 class="bg-product">productos & accesorios </h3>
+        <img src="img/services-stick-2.png" alt="">
+      </div>
+      <div class="col-md-4">
+        <h3 class="bg-wellness">wellness & spa</h3>
+        <img src="img/services-stick-3.png" alt="">
+      </div>
+      <div class="col-md-4">
+        <h3 class="bg-jardin">jardin & aire libre      </h3>
+        <img src="img/services-stick-4.png" alt="">
+      </div>
+      <div class="col-md-4">
+        <h3 class="bg-energy">energias alternativas </h3>
+        <img src="img/services-stick-5.png" alt="">
+      </div>
+      <div class="col-md-4">
+        <h3 class="bg-riego">sistemas de riego</h3>
+        <img src="img/services-stick-6.png" alt="">
+      </div>
+    </div>
+    <div class="catalogo-section">
+      <h3>REPRESENTANTE E IMPORTADOR OFICIAL PARA ARGENTINA DE SPAS HOTSPRING & MINI PISCINAS ENDLESS POOLS</h3>
+      <section>
+        <div class="img-logos col-md-3">
+          <img src="img/hotspring-logo-color.png" alt="">
+          <img src="img/endless-logo-color.png" alt="">
+        </div>
 
+        <div class="col-md-5 icon-container-home">
+          <div class="col-md-3">
+            <img src="img/logo-home-1.png" alt="">
+            <strong>Sede en (USA) California</strong>
+          </div>
+
+          <div class="col-md-3">
+            <img src="img/logo-home-2.png" alt="">
+            <strong>Presentes en 42 países</strong>
+          </div>
+
+          <div class="col-md-3">
+            <img src="img/logo-home-3.png" alt="">
+            <strong>Líder mundial en Ventas</strong>
+          </div>
+
+          <div class="col-md-3">
+            <img src="img/logo-home-4.png" alt="">
+            <strong>Más de 1.000.000 de Spas vendidos</strong>
+          </div>
+
+        </div>
+        <div class="col-md-4 pdf-container">
+          <strong>DESCARGAR CATALOGOS</strong>
+          <button><i class="fa fa-file-pdf-o" aria-hidden="true"></i>CATALOGOS HOTSPRING</button>
+          <button><i class="fa fa-file-pdf-o" aria-hidden="true"></i>CATALOGOS ENDLESS POOLS</button>
+          <a href="">Ver la web oficial</a>
+        </div>
+      </section>
+    </div>
+    </div>
+  </div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
@@ -88,7 +225,6 @@
 <li><a>· HotSpring Youtube</a></li>
             </ul>
           </div>
-          
         </div>
         <div class="col-md-4 text-right"><img src="img/logo_footer.png">
           <div class="info_footer">
