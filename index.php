@@ -178,11 +178,34 @@ encontrar ese espacio que imaginaron y merecen.</p>
     </div>
     </div>
   </div>
-  <div class="blues-section">
+  <div class="blue-section">
     <div class="container">
     <p><strong>tu presupuesto on-line: </strong>Es muy fácil. Diseñá tus parámetros, explicá tu idea y adjunta tus imagenes...</p>
-    <button>crear</button>
-  </div></div>
+  </div>
+</div>
+<div class="home-section">
+  <div class="container text-center">
+    <a href=""><img src="img/facebook-circle.png" alt=""></a>
+    <a href="">www.facebook.com/aquamare.argentina</a>
+    <hr>
+    <strong>Aquamare</strong>
+    <p>Seguinos en Facebook</p>
+  </div>
+</div>
+<div class="jobs-piscinas text-center clearfix container">
+  <img src="img/gota-logo.png" alt="">
+  <h2>40 años cuidando el agua</h2>
+  <button>CONTACTANOS</button>
+  <br>
+</div>
+<div class="sponsors-section clearfix text-center container">
+  <div class="col-md-2"><img src="img/sponsors-1.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-2.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-3.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-4.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-5.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-6.png" alt=""></div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
