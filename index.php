@@ -178,6 +178,11 @@ encontrar ese espacio que imaginaron y merecen.</p>
     </div>
     </div>
   </div>
+  <div class="blues-section">
+    <div class="container">
+    <p><strong>tu presupuesto on-line: </strong>Es muy fácil. Diseñá tus parámetros, explicá tu idea y adjunta tus imagenes...</p>
+    <button>crear</button>
+  </div></div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
