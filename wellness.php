@@ -93,19 +93,41 @@ para espacios de Wellness & Spa.</h3>
     <p>Aquamare ofrece una amplia gama de Hidromasajes y productos de Wellness & Spa de diferentes diseños, tamaños y colores;
 tanto para interior como para exteriores, con accesorios flexibles y funcionales y sistemas opcionales de luces en
 varias tonalidades. Ideales para transformar su baño, terraza o jardín en un lugar verdaderamente armonioso.</p>
-    <div class="stick-welneess">
-      <img class="col-md-6" src="" alt="">
-      <section class="col-md-6">
-        <strong><img src="" alt=""></strong>
-        <p></p>
-        <strong><img src="" alt=""></strong>
-        <p></p>
-        <strong><img src="" alt=""></strong>
-        <p></p>
-        <strong><img src="" alt=""></strong>
-        <p></p>
+    <div class="stick-wellness">
+      <img class="col-md-6 stick-img-wellness" src="img/wellnes-stick-1.png" alt="">
+      <section class="col-md-6 text-left">
+        <h4>BENEFICIOS DEL HIDROMASAJES</h4>
+        <strong><img class="wellness-icon" src="img/icon-corazon.png" alt="">AGUA & SALUD</strong>
+        <p>Los efectos del agua a través del hidromasajes permiten tratar el dolor
+y relajar las partes más sensibles del cuerpo.</p>
+        <strong><img class="wellness-icon" src="img/icon-mano.png" alt="">REDUCCION DEL ESTRES GARANTIZADO</strong>
+        <p>Los hidromasajes se caracterizan por su calidez, ligereza y masajes, creando un
+ambiente de relajación y curación. Al sumergir el cuerpo en agua cálida la temperatura
+corporal aumenta incrementando la circulación sanguínea y mejorando notablemente
+la salud. Inmediatamente el estrés físico y mental comienza a desvanecerse. </p>
+        <strong><img class="wellness-icon" src="img/icon-home.png" alt=""> MEJORA SU CALIDAD DE VIDA</strong>
+        <p>Disfrute de un momento especial de paz y relajación junto a su pareja, familia o amigos.</p>
+        <strong><img class="wellness-icon" src="img/icon-experiencia.png" alt="">EXPERIENCIAS UNICAS</strong>
+        <p>Improvisar una noche relajante, beneficiarse con un masaje energético luego
+de una sesión de deporte, disfrutar de un masaje en casa cada día de la semana,
+dejarse envolver por el sonido del agua en movimiento y muchas más.</p>
       </section>      
     </div>
+
+    <div class="stick-wellness">
+      <img class=" float-right col-md-6 stick-img-wellness-2" src="img/wellnes-stick-2.png" alt="">
+      <section class="col-md-6 text-left">
+        <h4>BENEFICIOS DEL SAUNA</h4>
+        <strong><img class="wellness-icon" src="img/icon-corazon.png" alt="">VAPOR Y SALUD</strong>
+        <p>Los beneficios de salud que nos aporta un sauna son conocidos: abre los poros y
+limpia la piel, elimina toxinas, ayuda a perder peso, es relajante, ayuda a aliviar dolores
+musculares, libera endorfinas y por lo tanto ayuda a combatir el insomnio y el estrés.</p>
+        <strong><img class="wellness-icon" src="img/icon-mano.png" alt="">MEJORA SU CALIDAD DE VIDA</strong>
+        <p>Este sistema ejerce un efecto positivo sobre el sistema locomotor y 
+el estado psico-emocional, aliviando el dolor artrítico y en general,
+sirve para tratar dolencias óseo musculares.</p>
+      </section>      
+    </div>    
   </div>
 </div>
 <div class="jobs-piscinas text-center clearfix container">

@@ -2037,7 +2037,7 @@ font-weight: 300;
 	border-radius: 10px; 
 }
 .cyan-wellness{
-	padding: 90px 0px;
+	padding: 90px 0px 60px 0px;
 	background-color: #158B8F;
 }
 .cyan-wellness h2{
@@ -2055,4 +2055,51 @@ font-weight: 300;
 	margin-bottom: 70px;
 	display: inline-block;
 	color: #FFFFFF;
+}
+.stick-img-wellness{
+	padding: 0px;
+	height: 616px;
+}
+.stick-img-wellness-2{
+	padding: 0px;
+	height: 387px;
+}
+.stick-wellness{
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.stick-wellness strong{
+	display: block;
+	font-family: "Roboto";
+	font-family: 15px;
+	font-weight: 800;
+	color: #6f757d;
+}
+.stick-wellness section{
+	background-color: #FFFFFF;
+	padding: 35px 40px 45px 30px;
+}
+.wellness-icon{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.stick-wellness section h4{
+	font-weight: 400;
+	font-size: 16px;
+	font-family: "Roboto Condensed";
+	color: #7eccce;
+}
+.stick-wellness section p{
+	font-size: 15px;
+	font-weight: 400;
+	font-size: 15px;
+	font-family: "Roboto";
+	color: #979696;
+	margin-bottom: 12px;
+}
+.float-right{
+	float: right;
 }
