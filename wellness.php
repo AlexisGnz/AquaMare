@@ -67,16 +67,17 @@ mediante sistemas que cuentan con zonas de agua equipadas con efectos relajantes
       <li> . </li>
       <li>Cascadas y mucho mas...</li>
     </ul>
-    <div class="col-md-6 wellness-box hotspring-wellness">
+    <a href="hotspring.php"><div class="col-md-6 wellness-box hotspring-wellness">
       <h3>SISTEMAS DE HIDROMASAJES HOTSPRING SPAS</h3>
       <img src="img/Hotspring-wellness.png" alt="">
       <button>VER COLECCIONES</button>
-    </div>
-    <div class="col-md-6 wellness-box endless-wellness">
+    </div></a>
+    
+    <a href="endlesspool.php"><div class="col-md-6 wellness-box endless-wellness">
       <h3>MINI PISCINAS ENDLESS POOLS</h3>
       <img src="img/Hotspring-wellness.png" alt="">
       <button>VER COLECCIONES</button>
-    </div>
+    </div></a>
   </div>
 </div>
 <div class="white-wellness">
