@@ -40,7 +40,88 @@
       </ul>
   </div>
 </div>
-<img class="img-responsive" src="img/wellness.png">
+<img class="img-responsive" src="img/well.png">
+<div class="wellness-dark">
+  <div class="container text-center">
+    <h2>Invertir en Salud</h2>
+    <strong>CON AQUAMARE USTED PUEDE LOGRAR UN EQUILIBRIO ENTRE CUERPO & MENTE.</strong>
+    <p>En nuestros locales encontrará todo el equipamiento que le permitirá disfrutar de un Spa en su propio hogar.
+El concepto de Wellness & Spa se ha convertido en todo un fenómeno social en la actualidad; ampliando el bienestar físico, psíquico y emocional
+mediante sistemas que cuentan con zonas de agua equipadas con efectos relajantes que contribuyen a combatir el estrés cotidiano.</p>
+    <ul>
+      <li>Hidromasajes</li>
+      <li> . </li>
+      <li>Mini Piscinas</li>
+      <li> . </li>
+      <li>Saunas</li>
+      <li> . </li>
+      <li>Baño Turco</li>
+      <li> . </li>
+      <li>Ducha Escocesa</li>
+      <li> . </li>
+      <li>Box de duchas multifunción</li>
+      <li> . </li>
+      <li>Columnas de duchas</li>
+      <li> . </li>
+      <li>Mamparas</li>
+      <li> . </li>
+      <li>Cascadas y mucho mas...</li>
+    </ul>
+    <div class="col-md-6 wellness-box hotspring-wellness">
+      <h3>SISTEMAS DE HIDROMASAJES HOTSPRING SPAS</h3>
+      <img src="img/Hotspring-wellness.png" alt="">
+      <button>VER COLECCIONES</button>
+    </div>
+    <div class="col-md-6 wellness-box endless-wellness">
+      <h3>MINI PISCINAS ENDLESS POOLS</h3>
+      <img src="img/Hotspring-wellness.png" alt="">
+      <button>VER COLECCIONES</button>
+    </div>
+  </div>
+</div>
+<div class="white-wellness">
+  <div class="container text-center">
+    <h3>Tenemos para ofrecerte la más alta calidad en productos
+para espacios de Wellness & Spa.</h3>
+    <p>Querés un Spa?</p>
+    <button>CONTACTANOS</button>
+  </div>
+</div>
+<div class="cyan-wellness">
+  <div class="container text-center">
+    <h2>Beneficios principales</h2>
+    <p>Aquamare ofrece una amplia gama de Hidromasajes y productos de Wellness & Spa de diferentes diseños, tamaños y colores;
+tanto para interior como para exteriores, con accesorios flexibles y funcionales y sistemas opcionales de luces en
+varias tonalidades. Ideales para transformar su baño, terraza o jardín en un lugar verdaderamente armonioso.</p>
+    <div class="stick-welneess">
+      <img class="col-md-6" src="" alt="">
+      <section class="col-md-6">
+        <strong><img src="" alt=""></strong>
+        <p></p>
+        <strong><img src="" alt=""></strong>
+        <p></p>
+        <strong><img src="" alt=""></strong>
+        <p></p>
+        <strong><img src="" alt=""></strong>
+        <p></p>
+      </section>      
+    </div>
+  </div>
+</div>
+<div class="jobs-piscinas text-center clearfix container">
+  <img src="img/vapor-icon.png" alt="">
+  <h2>Ver los trabajos realizados</h2>
+  <button>quiero mas info</button>
+  <br>
+</div>
+<div class="sponsors-section clearfix text-center container">
+  <div class="col-md-2"><img src="img/sponsors-1.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-2.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-3.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-4.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-5.png" alt=""></div>
+  <div class="col-md-2"><img src="img/sponsors-6.png" alt=""></div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">

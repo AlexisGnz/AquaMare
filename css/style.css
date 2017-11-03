@@ -1866,12 +1866,12 @@ padding: 9px 4px;
 }
 .blue-section p{
 	font-weight: 100;
-	font-family: "roboto";
+	font-family: "Roboto";
 	font-size: 26px;
 	color: #FFFFFF;
 }
 .blue-section p strong{
-	font-family: "roboto"; 
+	font-family: "Roboto"; 
 	font-weight: 300;
 	font-size: 19.95px;
 	text-transform: uppercase;
@@ -1888,7 +1888,7 @@ padding: 9px 4px;
 }
 .home-section a{
 	display: inherit;
-	font-family: "roboto";
+	font-family: "Roboto";
 	font-weight: 800;
 	font-size: 19px;
 	color: #FFFFFF;
@@ -1902,7 +1902,7 @@ padding: 9px 4px;
 	margin-top: 58px;
 }
 .home-section strong{
-	font-family: "roboto";
+	font-family: "Roboto";
 	font-weight: 800;
 	font-size: 18px;
 	color: #008889;
@@ -1911,8 +1911,148 @@ padding: 9px 4px;
 	display: inherit;
 }
 .home-section p{
-	font-family: "roboto";
+	font-family: "Roboto";
 	font-weight: 500;
 	font-size: 18px;
 	color: #008889;
+}
+.wellness-dark{
+	background-color: #1A1A1D;
+	padding: 80px 0px 65px 0px;
+	position: relative;
+}
+.wellness-dark h2{
+	font-size: 61.79px;
+	font-weight: 500;
+	font-family: "Roboto";
+	margin-bottom: 65px;
+	color: #FFFFFF;
+}
+.wellness-dark strong{
+	font-weight: 500;
+	display: block;
+	font-family: "Roboto";
+	margin-bottom: 35px;
+	font-family: 20px;
+	color: #abf5f6;
+}
+.wellness-dark p{
+font-family: "Roboto";
+font-size: 20px;
+color: #f0f1f1;
+margin-bottom: 40px;
+font-weight: 300;
+}
+.wellness-dark ul{
+	width: 100%;
+	height: 60px; 
+	line-height: 60px;
+	border-top: 2px solid #373736;
+	margin-bottom: 40px;
+	border-bottom: 2px solid #373736;
+}
+.wellness-dark ul li{
+	font-family: "Roboto";
+	font-weight: 700;
+	font-size: 18px;
+	color: #f0f1f1;
+}
+.wellness-box img{
+	width: 100%;
+	height: auto;
+	margin-top: -10px;
+}
+.wellness-box h3{
+	width: 100%;
+	height: 55px;
+	line-height: 55px;
+	font-family: "Roboto Condensed";
+	font-weight: 400;
+	font-size: 18px;
+	color: #e0dddd;
+	text-transform: uppercase;
+	background-color: #27282b;
+}
+.wellness-box button{
+	background-color: transparent;
+	border: 1px solid #3F6CAE;
+	border-radius: 5px;
+	color: #FFFFFF;
+	font-family: "Roboto Condensed";
+	font-weight: 700;
+	font-size: 12px;
+	text-transform: uppercase;
+	padding: 12px 80px;
+	margin-top: 32px;
+}
+.wellness-box{
+	cursor: pointer;
+}
+.hotspring-wellness:hover h3, .hotspring-wellness:hover button{
+	background-color: #3D8B93;
+}
+.endless-wellness:hover h3, .endless-wellness:hover button{
+	background-color: #2660A3;
+
+}
+.white-wellness{
+	padding: 105px 0px 85px 0px;
+	position: relative;
+}
+.white-wellness:before{
+	content: "";
+    position: absolute;
+    bottom: -20px;
+    height: 20px;
+    width: 20px;
+    display: block;
+    left: 50%;
+    margin-left: -10px;
+    border: 10px solid rgba(0,0,0,0);
+    border-top-color: #FFFFFF;
+    z-index: 10;
+}
+.white-wellness h3{
+	font-size: 37.8px;
+	font-family: "Roboto";
+	font-weight: 300;
+	color: #2b2d2e;
+	margin-bottom: 40px;
+}
+.white-wellness p{
+	font-size: 37.8px;
+	font-family: "Roboto";
+	font-weight: 300;
+	margin-bottom: 50px;
+	color: #26a1a5;
+}
+.white-wellness button{
+	font-weight: 800;
+	font-family: "Roboto";
+	font-size: 13px;
+	color: #25262a;
+	padding: 15px 40px;
+	background-color: transparent;
+	border: 1px solid #61D4D8;
+	border-radius: 10px; 
+}
+.cyan-wellness{
+	padding: 90px 0px;
+	background-color: #158B8F;
+}
+.cyan-wellness h2{
+	font-family: "Roboto";
+	font-weight: 800;
+	font-size: 42px;
+	color: #FFFFFF;
+	margin-bottom: 55px;
+}
+.cyan-wellness p{
+	font-weight: 300;
+	font-family: "Roboto";
+	font-size: 20px;
+	max-width: 1200px;
+	margin-bottom: 70px;
+	display: inline-block;
+	color: #FFFFFF;
 }
