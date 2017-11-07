@@ -40,7 +40,159 @@
       </ul>
   </div>
 </div>
-<img class="img-responsive" src="img/Hotspring Spa.png">
+<img class="img-responsive" src="img/hotspring-banner.png">
+<div class="hotspring-spas">
+  <div class="container text-center">
+    <h2>HotSpring® Spas</h2>
+    <strong>Cuando Usted elige HotSpring® obtIENE un innovador spa de Ultima generaciOn</strong>
+    <p>Como líder en la industria HotSpring® Spas es la única marca que ha vendido ya más de un millón de unidades.
+Lo que significa que hay más Spas HotSpring en jardines por el mundo que de cualquier otra marca. Con más de 25 años en el mercado,
+Aquamare se destaca por haber creado una reputación de calidad y confianza, convirtiéndose en el primer Dealer en Centro América.
+</p>
+    <h3>Encuentre aquí el Spa de Hidromasajes HotSpring® ideal para usted</h3>
+  </div>
+  <div class="stick-spa-container container clearfix text-center">
+    <div class="col-md-3 stick-hotspring">
+      <h4 class="hotspring-color-1">COLECCION HIGHLIFE NXT®</h4>
+      <img src="img/hotspring-stick-1.png" alt="">
+      <button>cotizar</button>
+    </div>
+    <div class="col-md-3 stick-hotspring">
+      <h4 class="hotspring-color-2">COLECCION HIGHLIFE®</h4>
+      <img src="img/hotspring-stick-2.png" alt="">
+      <button>cotizar</button>
+    </div>
+    <div class="col-md-3 stick-hotspring">
+      <h4 class="hotspring-color-3">COLECCION LIMELIGHT®</h4>
+      <img src="img/hotspring-stick-3.png" alt="">
+      <button>cotizar</button>
+    </div>
+    <div class="col-md-3 stick-hotspring">
+      <h4 class="hotspring-color-4">COLECCION HOT SPOT®</h4>
+      <img src="img/hotspring-stick-4.png" alt="">
+      <button>cotizar</button>
+    </div>
+  </div>
+</div>
+<div class="galeria-hotspring">
+  <div class="container">
+    <h2 class="text-center">Conocé nuestros Spas</h2>
+    <div class="col-md-9 col-md-offset-3">
+      <ul>
+        <li>Todo</li>
+        <li>Línea Highlife NXT</li>
+        <li>Línea Highlife</li>
+        <li>Línea Limelight</li>
+        <li>Línea Hot Spot</li>
+      </ul>
+    </div>
+    <div class="col-md-3 nav-galery">
+      <form action="">
+        <button>VER TODAS<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+        <button>COLECCION HIGHLIFE NXT<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+        <button>COLECCION HIGHLIFE<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+        <button>COLECCION LIMELIGHT<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+        <button>COLECCION HOT SPOT<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+      </form>
+    </div>
+    <div class="col-md-9 galery-hotspring-container">
+      <div class="col-md-4">
+        <img src="img/galery-hotspring-1.png" class=".top-none" alt="">
+        <p>Modelo Gleam - 8 Personas</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/galery-hotspring-2.png" class=".top-none" alt="">
+        <p>Modelo Flair - 6 Personas</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/galery-hotspring-3.png" class=".top-none" alt="">
+        <p>Modelo Bolt - 4 Personas</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/galery-hotspring-4.png" alt="">
+        <p>Modelo Glow - 4 Personas</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/galery-hotspring-5.png" alt="">
+        <p>Modelo Pulse - 7 Personas</p>
+      </div>
+      <div class="col-md-4">
+        <img src="img/galery-hotspring-6.png" alt="">
+        <p>Modelo Envoy - 6 Personas</p>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="text-left textarea-hotspring clearfix">
+    <div class="container">
+    <h2 class="text-center">Beneficios principales</h2>
+    <div class="col-md-4">
+      <h3>TIEMPO DE CALIDAD
+EN FAMILIA</h3>
+      <p>Disfrute de un lugar privado
+y seguro, donde puede relajarse,
+disfrutar y abrirse de verdad
+junto a su familia o amigos.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>MEJOR ESTILO & CALIDAD DE VIDA</h3>
+      <p>Lleve una vida mucho más activa
+y plena. Experimente nuevas sensaciones, 
+libere estrés, relájese y cambie 
+sorprendentemente su estilo de vida. </p>
+    </div>
+    <div class="col-md-4">
+      <h3>RELAJACION & DIVERSION
+AL AIRE LIBRE</h3>
+      <p>Nuestros Jacuzzis se adaptan a Usted 
+muy facilmente; así como también al espacio 
+y al clima; para ofrecerle una experiencia única 
+en cualquier condición y tiempo.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>SISTEMAS DE
+HIDROMASAJES</h3>
+      <p>Nuestros equipos se destacan por
+tres factores: calor, flotabilidad y masajes. 
+Todos juntos, crean una experiencia 
+de hidromasajes totalmente relajante.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>IMPORTANTE MEJORIA
+DEL SUEÑO</h3>
+      <p>Pasar tiempo en un Spa antes de ir a la
+cama puede conducir a un sueño mucho
+más profundo y pacífico; y a mejoras
+de la circulación general de su cuerpo.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>NOTABLE AUMENTO DE LA MOVILIDAD</h3>
+      <p>El uso del agua caliente o del calor,
+es recomendable para mejorar la salud,
+las articulaciones y la movilidad de aquellas
+personas con dolores constantes.</p>
+    </div>
+    </div>
+  </div> 
+  <div class="piscinas-contacto color-008996">
+  <section>
+  <h2>Podemos ofrecerte todos los modelos de las Colecciones de HotSpring®</h2>
+  <h3>Querés un Spa?</h3>
+  <button>contactanos</button></section>
+</div>
+<div class="sponsors-hotspring">
+  <div class="container text-center">
+    <img src="img/hotspring-logo-color.png" alt="">
+    <h2>Ver todos los Productos de la Línea</h2>
+    <h3>www.hotspring.com.ar</h3>
+    <ul>
+      <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+      <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+      <li><i class="fa fa-pinterest-p" aria-hidden="true"></i></li>
+      <li><i class="fa fa-youtube" aria-hidden="true"></i></li>
+    </ul>
+  </div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">
