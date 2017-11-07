@@ -97,15 +97,15 @@ Aquamare se destaca por haber creado una reputación de calidad y confianza, con
     </div>
     <div class="col-md-9 galery-hotspring-container">
       <div class="col-md-4">
-        <img src="img/galery-hotspring-1.png" class=".top-none" alt="">
+        <img src="img/galery-hotspring-1.png" class="top-none" alt="">
         <p>Modelo Gleam - 8 Personas</p>
       </div>
       <div class="col-md-4">
-        <img src="img/galery-hotspring-2.png" class=".top-none" alt="">
+        <img src="img/galery-hotspring-2.png" class="top-none" alt="">
         <p>Modelo Flair - 6 Personas</p>
       </div>
       <div class="col-md-4">
-        <img src="img/galery-hotspring-3.png" class=".top-none" alt="">
+        <img src="img/galery-hotspring-3.png" class="top-none" alt="">
         <p>Modelo Bolt - 4 Personas</p>
       </div>
       <div class="col-md-4">
