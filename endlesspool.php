@@ -40,7 +40,155 @@
       </ul>
   </div>
 </div>
-<img class="img-responsive" src="img/Endless Pools.png">
+<img class="img-responsive" src="img/hotspring-banner.png">
+<div class="hotspring-spas clearfix">
+  <div class="container text-center endless-home">
+    <h2>Mini Piscinas Endless Pools®</h2>
+    <strong>REALICE EJERCICIO COMO TODO UN PROFESIONAL EN LA COMODIDAD Y PRIVACIDAD DE SU HOGAR</strong>
+    <p>Endless Pools® presenta los nuevos equipos que representan el futuro del diseño de las mini piscinas.
+Con ellos Usted podrá nadar, correr, hacer ejercicio y relajarse... todo en un solo lugar y con los niveles de exigencia deseados.
+Elija una mini piscina Enless Pools y obtenga notables mejoras en su calidad de vida. Siéntase relajado y reduzca su nivel de estrés.
+</p>
+    <h3>Encuentre aquí la Mini Piscina Endless Pools® ideal para usted</h3>
+
+      <div class="stick-endless col-md-6">
+    <h4>COLECCION SWIMCROSS®</h4>
+    <img src="img/stck-endless-1.png" alt="">
+    <button>COTIZAR</button>
+  </div>
+  <div class="stick-endless col-md-6">
+    <h4>COLECCION FITNESS®</h4>
+    <img src="img/stck-endless-2.png" alt="">
+    <button>COTIZAR</button>
+  </div>
+
+  </div>
+</div>
+<div class="galeria-hotspring">
+  <div class="container">
+    <h2 class="text-center">Conocé nuestras Mini Piscinas</h2>
+    <div class="col-md-9 col-md-offset-3">
+      <ul>
+        <li>Todo</li>
+        <li>Línea X-Swimcross</li>
+        <li>Línea E-Fitness</li>
+      </ul>
+    </div>
+    <div class="col-md-3 nav-galery">
+      <form action="">
+        <button>VER TODAS<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+        <button>COLECCION SWIMCROSS<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+        <button>COLECCION FITNESS<i class="fa fa-caret-down" aria-hidden="true"></i></button>
+      </form>
+    </div>
+    <div class="col-md-9 galery-endless-container">
+      <div class="col-md-2-prop col-md-2">
+        <div class="galery-img-container">
+          <img src="img/X-200.png" alt="">
+          <p>modelo x-200</p>
+        </div>
+        
+      </div>
+      <div class="col-md-2-prop col-md-2">
+        <div class="galery-img-container">
+          <img src="img/X-500.png" alt="">
+          <p>modelo x-500</p>
+        </div>
+        
+      </div>
+      <div class="col-md-2-prop col-md-2">
+        <div class="galery-img-container">
+          <img src="img/E-500.png" alt="">
+          <p>modelo e-500</p>
+        </div>
+        
+      </div>
+      <div class="col-md-2-prop col-md-2">
+        <div class="galery-img-container">
+          <img src="img/E-700.png" alt="">
+          <p>modelo e-700</p>
+        </div>
+        
+      </div>
+      <div class="col-md-2-prop col-md-2">
+        <div class="galery-img-container">
+          <img src="img/E-2000.png" alt="">
+          <p>modelo e-2000</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="text-left textarea-hotspring textarea-endless clearfix">
+    <div class="container">
+    <h2 class="text-center">Beneficios principales</h2>
+    <div class="col-md-4">
+      <h3>NATACION
+EN SU HOGAR</h3>
+      <p>Nade tranquilo en la comodidad
+de su hogar. Mejore su bienestar
+general haciendo ejercicios, reduzca
+dolores y pierda peso de forma rápida.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>TERAPIA ACUATICA
+DE BAJO IMPACTO</h3>
+      <p>Ideal para personas que experimentan 
+espasmos musculares, dolores de espalda, 
+artrítis y fibromialgia. Una gran actividad 
+para todas las edades y capacidades.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>BIENESTAR & LIBERTADAL AIRE LIBRE</h3>
+      <p>Natación, ejercicios en el agua 
+y un sano, y completo entrenamiento
+deportivo al aire libre que mejorará
+su salud y estado físico notablemente.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>DIVERSION& RELAJACION</h3>
+      <p>Disfrute de un espacio único que le
+permitirá además pasar tiempo de calidad
+compartido, diversión espontánea, 
+y relajación en familia y con amigos.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>SISTEMAS DEHIDROMASAJES</h3>
+      <p>Todos nuestros equipos cuentan
+con un área de Spa completamente 
+equipada que le ofrecerán salud, 
+diversión y placer asegurado.</p>
+    </div>
+    <div class="col-md-4">
+      <h3>LO ULTIMOEN TECNOLOGIA</h3>
+      <p>Con Endless Pools Usted podrá 
+disfrutar en un solo equipo de lo último 
+en tecnología e innovación en piscinas 
+deportivas y Sistemas de Spa.</p>
+    </div>
+    </div>
+  </div> 
+  <div class="piscinas-contacto color-2660A3">
+  <section>
+  <h2>Podemos ofrecerte todos los modelos de las
+Colecciones de Endless Pools®</h2>
+  <h3>Querés una Mini Piscina?</h3>
+  <button>contactanos</button></section>
+</div>
+<div class="sponsors-hotspring">
+  <div class="container text-center">
+    <img src="img/endless-logo-color.png" alt="">
+    <h2>Ver todos los Productos de la Línea</h2>
+    <h3>www.hotspring.com.ar</h3>
+    <ul>
+      <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+      <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+      <li><i class="fa fa-pinterest-p" aria-hidden="true"></i></li>
+      <li><i class="fa fa-youtube" aria-hidden="true"></i></li>
+    </ul>
+  </div>
+</div>
 <div class="footer">
   <div class="newsletters_block">
     <div class="container">

@@ -2371,3 +2371,64 @@ font-weight: 300;
 	font-weight: bold;
 	color: #29292a;
 }
+.stick-endless h4{
+	width: 100%;
+	height: 55px;
+	line-height: 55px;
+	background-color: #0F3D73;
+	font-family: "Roboto Condensed";
+	font-weight: 400;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #e0dddd;
+}
+.stick-endless img{
+	width: 100%;
+	height: auto;
+	margin-top: -10px;
+	margin-bottom: 30px;
+}
+.stick-endless button{
+	padding: 10px 50px;
+	background-color: #3579BB;
+	border: 1px solid #75A7D3;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: "Roboto Condensed";
+	font-size: 12px;
+	border-radius: 5px;
+}
+.endless-home strong{
+	color: #6ecafa;
+	display: inline-block;
+}
+.endless-home h3{
+	background-color: #1D5A99;
+}
+.galery-img-container{
+	padding: 15px; 
+	border:	1px solid #ECECEC;
+}
+.galery-img-container img{
+	width: 100%;
+	height: auto;
+	margin-bottom: 15px;
+}
+.galery-img-container p{
+	text-align: center;
+	font-family: "Roboto Condensed";
+	font-size: 14px;
+	font-weight: bold;
+	color: #29292a;
+	text-transform: uppercase;
+}
+.textarea-endless h3{
+	color: #448ccc !important;
+}
+.color-2660A3{
+	background-color: #2660A3;
+}
+.col-md-2-prop{
+	width: 20%;
+}
